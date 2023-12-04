@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
  * @author zhu56
  * @date 2023/08/08 23:06
  */
-public class Printer {
+public  class Printer {
 
     private Boolean flag = true;
 

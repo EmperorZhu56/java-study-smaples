@@ -7,7 +7,7 @@ public class CountDownLatchTest {
 
 
     public static void main(String[] args) {
-        CountDownLatch countDownLatch = new CountDownLatch(3);;
+        CountDownLatch countDownLatch = new CountDownLatch(3);
         new Thread(()->{
 
             try {
