@@ -3,7 +3,6 @@ package org.example.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-//滑动窗口
 public class LC0003 {
 
     public static void main(String[] args) {

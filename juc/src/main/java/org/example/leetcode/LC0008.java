@@ -1,10 +1,6 @@
 package org.example.leetcode;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Objects;
 
-//滑动窗口
 public class LC0008 {
 
     public static void main(String[] args) {

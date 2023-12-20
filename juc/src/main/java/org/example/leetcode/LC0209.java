@@ -1,6 +1,5 @@
 package org.example.leetcode;
 
-//滑动窗口
 public class LC0209 {
 
     public static void main(String[] args) {
